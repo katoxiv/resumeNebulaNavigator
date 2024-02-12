@@ -30,6 +30,7 @@ Usage:
     Upload your CV and job description files.
     Explore the extracted information, summarized CV details, keyword visualizations, and tailored recommendations.
     Optimize your resume based on the insights provided to enhance its compatibility with targeted job opportunities.
+    Included job description files are some of the few examples of job descriptions out there, feel free to use any for the job you are applying for.
 
 Contributing:
 Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or submit a pull request.
