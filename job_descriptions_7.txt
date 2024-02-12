@@ -1,0 +1,54 @@
+Cyber Security Engineer
+
+
+ A bit about the role...
+
+Working in a team with our Chief Information Security Officer and Cyber Security Lead, the Cyber Security Engineer will play a critical role in the Cyber Security of Homes England. You will be joining our highly skilled and experienced internal team of 5 people, who are committed to making positive change in how we defend Homes England from external, third party and national Cyber attacks.
+
+Our Chief Information Security Officer believes in working in a collaborative/flexible way and values diversity in experience and perspective to foster good decision making and problem solving within the team.
+
+This is a rare chance to shape the future Homes England Cyber Security function to defend and protect in an ever changing threat landscape. You will do this in a national organisation with real social purpose. Working with key stakeholders, other Cyber professionals within the Government Security profession, with both internal and external professional Cyber security teams you will ensure efficient, consistent and effective resolution of Cyber events and have the opportunity to help maintain a safe and secure Cyber environment.
+
+The role will support the migration of technical security design and delivery of key strategic projects as they are delivered into the operational Cyber support. There are some exciting projects to get involved with and this is an excellent opportunity to balance business as usual security whilst assuring these innovative solutions to the wider business.
+
+A bit about you…
+
+You are resilient and comfortable managing and communicating with stakeholders across the business. Your discussions will always be shaped by a good understanding of the commercial and operational impact of what we do as an operational Cyber Security team. You enjoy working in an innovative, fun and engaging way while delivering compliant, high quality, secure solutions.
+
+You will be able to act as an escalation point for Cyber Security events, incidents, attack from various sources, analyse and report effectively in an accessible and consistent way. To deliver this you will be able to work with cloud security technologies (preferably Azure) and have a good level of threat analysis and vulnerability assessment skills (preferably Mitre Att&ck and CHECK).
+
+Within the engineer role you and the team will be responsible for Cyber Security controls, policies and procedures supporting our Information Security certification to ISO27001 and the GovAssure compliance assurance program.
+
+Solutions you deliver should be reusable and scalable with a focus on consistency and maintainability. You will be able to review existing processes and improve them while thinking about better cost efficiency and performance. As part of this you should have a desire to learn and explore new technologies.
+
+As an experienced Digital professional, you’ll understand how to manage relationships with colleagues and be able to demonstrate you can work with others as part of a team in a collaborative, inclusive way.
+
+Who are we?
+
+Homes England : The Housing and Regeneration Agency
+
+We believe that affordable, quality homes in well-designed places are key to improving people’s lives. As the government’s housing and regeneration agency, we create thriving new places and transform urban areas, combining the full breadth of our powers, expertise, land, capital and influence to bring investment to communities and get more homes built.
+
+How? We form long-term partnerships that bridge the gap between the public and private sector to meet local needs and aspirations. We use our influence to champion the creation of sustainable homes, communities and places that are brilliantly designed for the people that live there now, and in the future. And we use our funding and support to build a more resilient, diverse and innovative housing sector, helping new entrants in the market, encouraging modern methods of construction and design, and promoting the utmost attention to building safety.
+
+Together with our partners, we’re accelerating the pace of house building, remediation and regeneration across the country, as we seek to deliver ever more affordable homes in places people are proud to call home for generations to come.
+
+What we offer...
+
+As well as a competitive salary and 33 days annual leave, we are committed to 50/50 hybrid working. We’ll support you, wherever possible, so that you don’t miss out on what matters to you.
+
+Internal applicants: please note that if you are successful, the salary you are offered will be in accordance with our pay controls and pay policy. You can find these on the recruitment pages of the intranet.
+
+If you ever need a bit of extra help, we have a great employee assistance programme, financial wellbeing support and access to many great discounts with leading high street names.
+
+Our range of network groups are also there to support you to be yourself at work and play a key role in helping shape our future.
+
+If you are a member of a professional body, we’ll pay for your membership and once you get your digital kit, you’ll be good to go.
+
+Homes England are a geographically diverse community. We work to a 50/50 office/ home based model. Moving back into our office environments has enabled us to utilise our space and time together in the most collaborative way.
+
+We would encourage all applicants to apply as soon as possible as we may close vacancies early should we receive a high number of applications.
+
+We also encourage you to apply using the full application option as opposed to quick apply, this is especially important if you would like to indicate to us that you would like to be considered under the disability confident scheme.
+
+If your application is shortlisted to interview we will require you to provide proof of your right to work in the UK at this stage. The successful candidate will be required to undertake Security Check (SC) clearance as part of their pre-employment, and is required to have lived and worked in the UK for the last 5 years. For more information visit - National security vetting: clearance levels - GOV.UK (www.gov.uk)

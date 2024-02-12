@@ -1,0 +1,83 @@
+Information Security Architect
+
+Benefits
+Pulled from the full job description
+
+    Company pension
+    Cycle to work scheme
+    Gym membership
+    Season ticket loan
+
+We have an exciting opportunity for an experienced Information Security Architect (Global Grade 13) to join a growing team at Elexon in implementing our new Foundation Architecture strategy.
+
+You will work closely with senior stakeholders and cross-functional product teams to successfully execute an in-flight digital transformation initiative. You will need to be familiar with working in a fast-paced agile environment, and have experience working with system integrator teams, based across multiple geographies and in different organizations.
+
+This role offers the opportunity to use a wide range of skills to deliver an advanced cloud based technical solution with modern architecture patterns and technologies. You will need to translate business requirements into technical solutions, and effectively communicate with product teams on your design. A key part of your role will be leading engineering teams to ensure conformation to your design, and governance through a well-formulated process.
+
+The ideal candidate will combine excellent technical skills and communications expertise with a collaborative approach that will demonstrate the value of communications and stakeholder engagement.
+
+Responsibilities:
+
+    Design and govern the implementation of enterprise-class security systems for a hybrid cloud environment involving Microsoft Azure, Salesforce, Oracle Cloud & Private Data Centre(s).
+    Drive the information security conversation and assist Elexon by providing deployment guidance, supporting development of our cloud adoption model, and providing appropriate recommendations to overcome blockers.
+    Define principles and requirements for Elexon's Information Security architecture and ensure that all solutions adhere to them.
+    Identify security design gaps in existing and proposed architectures and recommend changes or enhancements.
+    Create solutions and management plans that balance business requirements with information and cyber security requirements.
+    Review security design artefacts as well as operational reports and security threats - lead the implementation of mitigation steps with the help of respective system integration partners.
+    Define and align standards, frameworks and security policies with overall business and technology strategy.
+    Identify and communicate current and emerging security threats.
+    Maintain technical skills and knowledge, keeping up to date with market trends and competitive insights.
+    Define data platform capabilities and features that align to current and future business operating models and maturity.
+    Quality review solution providers high and low level solution designs ensuring they align to the data architecture and policies.
+
+Architecture Expertise:
+
+    Minimum of 8 years working as an Information Security Architect.
+    Experience delivering Hybrid Cloud and Internet facing applications with a strong focus on cyber security.
+    Experience with security architecture and security by design for hybrid cloud environments, specifically, Microsoft Azure, Salesforce, Aquasec, OKTA.
+    Experience in determining business requirements and developing security solution design, both technical and process oriented.
+    Experience on translating requirements for fellow architects enabling them to successfully implement the design in secure and robust fashion.
+    Experience in technical governance, performing reviews of the security artefacts from technical teams and working collaboratively to help them fill in the identified gaps.
+    Experience in assessment, risk management, and governance for secure infrastructure and services.
+    Experience collaborating with Project Managers, Engagement Managers, and consultants in order to understand customer needs then designing secure, “fit for purpose” business and technical solutions.
+
+Technical Expertise:
+
+    Experience in security architecture and security by design for cloud native solutions, leveraging containers, microservices, APIs, PaaS capabilities of Azure, variety of data storage technologies, identity & access management suites etc.
+    Experience in the following security toolset and technologies:
+    Azure Security Centre
+    Container Security Solutions like Aquasec
+    Identity and Access Management Solutions like OKTA, Active Directory
+    Azure API Management
+    Azure Storage Service Encryption
+    Azure Key Vault
+    Azure AD Connect
+    Azure Site Recovery
+    Azure Traffic Manager and Multi Region Deployments
+    Azure Policies and Resource Locks
+    Static Code Analysis with Sonarcloud and for Security Vulnerabilities like Checkmarx
+    Salesforce Shield
+    Fortigate & Fortimanager
+
+In return, Elexon provides
+
+    £100,000
+    28 days annual holiday + Bank Holidays
+    Discretionary annual bonus scheme
+    Life assurance
+    Pension
+    Private medical (Bupa)
+    Private dental (Cigna)
+
+At Elexon, our employee wellbeing is particularly important to us, which is why we are proud to provide:
+
+    Hybrid working available
+    Nuffiled Health check
+    Employee Assistance Programme
+    Eye care voucher scheme
+    Subsidised gym membership
+    Cycle to Work Scheme
+    Buying & selling holiday scheme
+    Computing scheme
+    CSR days
+    Season ticket loan

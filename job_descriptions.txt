@@ -1,0 +1,64 @@
+Cyber Threat & Vulnerability Analyst
+
+Benefits
+Pulled from the full job description
+
+    Company pension
+
+In Team Digital, we’re planning for a future where the technology solutions we co-create and design enable us to achieve our goal of protecting our greatest natural resource and allow our customers, communities and the environment to thrive.
+
+As a team, our vision is to create an everyday digital experience for the people we serve - our customers - by putting them at the heart of everything we do. As part of our award-winning team you’ll help the business become an intelligent, connected organisation in order to deliver our digital transformation and turnaround.
+
+We are seeking a Cyber Threat & Vulnerability Analyst to be responsible for supporting the design, implementation, and maintenance of TVM (Cyber Threat & Vulnerability Management) solutions, controls, and processes across Thames Water. You will gain an understanding of TVM concepts, technologies, and best practices, as well as the ability to collaborate effectively with cross-functional teams.
+
+What you will be doing as a Cyber Threat & Vulnerability Analyst
+
+    Support vulnerability management across the enterprise, ensuring that a framework for identification, categorisation and mitigation exists and is implemented and maintained.
+    Collaborate with stakeholders to understand business requirements and assist with the development of threat assessment and vulnerability management (TVM) strategies and controls that align with organisational goals.
+    Assist with the development and maintenance of TVM documentation, policies, and procedures.
+    Integrate cyber security solutions (e.g. vulnerability scanning tools) with existing systems, applications, and infrastructure.
+    Investigate newly identified cyber security vulnerabilities and provide appropriate mitigation actions.
+    Liaise and coordinate with technology and business stakeholders about cyber security patching and vulnerability management issues/actions.
+    As this role sits within Security Operations, there is a possible need to be on call for major incidents only (not a static weekly/monthly on-call rota). More details will be in the employment contracts once successful.
+    Perform proactive threat hunting for new and emerging cyber threats.
+    Maintain dashboards with cyber security threat and vulnerability metrics.
+    Support compliance with relevant industry standards, regulations, and best practices, such as GDPR, NIS and ISO 27001.
+    Monitor, analyse and optimise TVM tool performance, identify potential issues, and implement proactive solutions under the guidance of the TVM Lead.
+    Stay current on industry trends, emerging technologies, and best practices to continuously improve security operations.
+
+What you should bring to the role?
+
+We want to bring together a team of brilliant tech minds with game-changing ideas. We’re looking for people who will help us re-imagine the way we work and the way we get things done:
+
+    A truly digital mindset. Open to collaboration. Open to risk. Open to new ways of doing things.
+    Obsessed with data. Obsessed with excellence.
+    People who think and behave differently to the way we do. People who don’t want to just be another cog in the machine.
+
+Essential Experience
+
+    You will ideally have a degree in Cyber Security, Computer Science, Information Technology, Engineering, or a related field.
+    Strong analytical and problem-solving abilities, and good decision-making skills.
+    Ability to display strong planning and organising skills.
+    Exposure to remediating vulnerabilities on endpoints in a complex business environment.
+    Experience in remediating cyber risks in the ever-changing digital estate.
+    A generic cyber security certification such as CCSP, Security + or SC-200.
+
+Desirable Experience
+
+    Previous experience within Threat and Vulnerability Management and control design, and implementation.
+    Previous experience within the water industry would be desirable.
+    TVM-specific certification(s) e.g. Certified Threat Intelligence Analyst (CTIA) or Certified Vulnerability Assessor (CVA).
+    Ability to explain complex IT/Security problems to non-technical audiences.
+
+Base Location - Hybrid Clearwater Court, Reading
+
+Working Hours - 36 hours per week
+
+What’s in it for you?
+
+    Competitive salary up to £50,000 PA.
+    26 days holiday per year increasing to 30 with the length of service. (Plus bank holidays)
+    Contributory pension – Defined Contribution - Maximum of 12% -2x employee contribution.
+    Personal Medical Assessments – Open to all once a year.
+    Wider benefits scheme including our benefits hub, which is packed full of offers and information to save you money and support your wellbeing.
+

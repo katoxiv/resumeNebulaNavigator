@@ -1,0 +1,59 @@
+Cyber Security Engineer
+
+
+Benefits
+Pulled from the full job description
+
+    Company pension
+
+In Team Digital, we’re planning for a future where the technology solutions we co-create and design enable us to achieve our goal of protecting our greatest natural resource and allowing our customers, communities and the environment to thrive.
+
+As a team, our vision is to create an everyday digital experience for the people we serve - our customers - by putting them at the heart of everything we do. As part of our award-winning team you’ll help the business become an intelligent, connected organisation to deliver our digital transformation and turnaround.
+
+We seek a Cyber Security Engineer responsible for implementing, and maintaining Cyber Security Engineering solutions, controls and processes across Thames Water. You will be able to fully utilise your good understanding of security engineering concepts, technologies, and best practices, as well as the ability to collaborate effectively with cross-functional teams.
+
+What you will be doing as a Cyber Security Engineer
+
+    Support the creation of a secure asset build and system hardening capability, ensuring that it continuously provides rigour and robust compliance monitoring for our end-user computing and server estate.
+    Collaborate with stakeholders to understand business requirements and develop cyber security engineering strategies and controls that align with organisational goals.
+    Assist with the development and maintenance of cyber security engineering documentation, policies, and procedures.
+    Integrate cyber security solutions (e.g. privileged access management tools) with existing systems, applications, and infrastructure.
+    Perform assessments on cloud security and create documentation that enables the business to use the cloud securely.
+    Liaise and coordinate with technology and business stakeholders about cyber security patching and vulnerability management issues/actions.
+    Develop and maintain dashboards with cyber security engineering metrics.
+    Identity & Access Management, Privileged Access Management (CyberArk) and Network Appliance (Firewalls, VPN, etc.) tooling support and maintenance.
+
+What you should bring to the role?
+
+We want to bring together a team of brilliant tech minds with game-changing ideas. We’re looking for people who will help us re-imagine the way we work and the way we get things done:
+
+    A truly digital mindset. Open to collaboration. Open to risk. Open to new ways of doing things.
+    Obsessed with data. Obsessed with excellence.
+    People who think and behave differently to the way we do. People who don’t want to just be another cog in the machine.
+
+Essential Experience
+
+    You will ideally have a degree in Cyber Security, Computer Science, Information Technology, Engineering, or a related field.
+    Strong analytical and problem-solving abilities, and good decision-making skills.
+    Exposure to remediating vulnerabilities on end-points in a complex business environment.
+    Experience in remediating cyber risks in the ever-changing digital estate.
+    Knowledge of security engineering concepts, technologies and best practices.
+
+Desirable Experience
+
+    Previous experience within the water/utility industry or large, complex infrastructure-based enterprises.
+    Previous experience as a systems administrator or network administrator.
+    Ability to explain complex IT/Security problems to non-technical audiences.
+
+
+Base Location - Hybrid Clearwater Court, Reading
+
+Working Hours - 36 hours per week
+
+What’s in it for you?
+
+    Competitive salary up to £50,000 PA.
+    26 days holiday per year increasing to 30 with the length of service. (Plus bank holidays)
+    Contributory pension – Defined Contribution - Maximum of 12% -2x employee contribution.
+    Personal Medical Assessments – Open to all once a year.
+    Wider benefits scheme including our benefits hub, which is packed full of offers and information to save you money and support your wellbeing.

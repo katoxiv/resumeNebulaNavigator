@@ -1,0 +1,69 @@
+IT Disaster Recovery Manager
+
+
+Benefits
+Pulled from the full job description
+
+    Company pension
+    Cycle to work scheme
+    Employee discount
+
+UK Research and Innovation
+
+Salary: £54,043- £60,049 (depending on skills & experience)
+Hours: Full Time
+Contract Type: Open Ended
+Location: Swindon or Nottingham. We offer a very flexible approach to hybrid working, this role will include occasional travel to Swindon or Nottingham approximately one day a week
+
+Closing Date: Sunday 4th February 2024
+
+Job Overview:
+
+UKRI Digital, Data and Technology (DDaT) department provides the enterprise technical services that underpin and enable UKRI’s business capabilities. Within the department a small team coordinates the delivery of services across a larger federated team of IT professionals to deliver impact across UKRI.
+
+This post provides a rare opportunity for an experienced professional to step into a planning and operations role in an organisation at the heart of research and innovation in the UK. Supported by teams of technical specialists, and reporting directly to the Head of Service Delivery, your broad remit is to drive the implementation of our ambitious IT resilience roadmap and mature our capability.
+
+The IT DR Manager will take responsibility to maintain and imbed the IT DR policy and processes to ensure fit for purpose resilient and recoverable IT systems allowing UKRI to respond to, and manage, events impacting critical IT Services. The post holder will be responsible for the design, implementation and exercising IT DR systems; working with business stakeholders to identify and document critical business impacts, recovery plans, priorities of organisational readiness and ensuring recovery plans are fit for purpose and comply with UKRI DR standards and processes.
+
+As part of the IT DR delivery, the IT DR Manager will work in conjunction with Business Owners, IT Technical Teams and 3rd Party suppliers to help facilitate and develop smooth, efficient and effective delivery of IT disaster recovery capabilities across all the UKRI business functions.
+
+Key Responsibilities:
+
+    Owning the IT DR framework, policies, procedures and UKRI DR plans, ensuring alignment to UKRIs risk appetite.
+    Coordination of the development, maintenance and testing of disaster recovery plans for each critical IT Service and application to ensure an appropriate level of resilience and recovery capability is retained.
+    Identification and evaluation of IT DR risks and issues in risk registers and identify mitigating actions.
+    Managing the development of 3rd party supplier relationships.
+    Liaise with all external vendors to ensure thorough preparation, timely and complete deliverables required for a successful DR test for all in-scope applications.
+    Providing IT DR requirements to projects, review business requirement to ensure they meet IT DR framework, policies and procedures, review high level designs to ensure they incorporate and meet IT DR requirements.
+    Ensuring system RTO/RPO are met in line with SLA’s agreed with the business lines
+    Support the business continuity manager in understanding the business IT recovery requirements and capabilities and acting as a bridge to IT.
+    Support Business Impact Analysis workshops to update the criticality of the processes, dependencies, and recovery plans.
+    Providing the escalation for incident resolution within the UKRI Crisis and Incident Management Frameworks and executing the IT DR plans when a business disruption, incident or crisis occurs, coordinating with Service Management teams and suppliers.
+    Attend weekly Change Planning Board sessions and ensure tests do not conflict with other planned activities.
+    Provide continuous improvement of the DR framework.
+    Reporting to senior management key disaster recovery statistics and areas requiring improvements.
+    Assist with audits providing an overview of test outcomes and evidence as needed.
+
+Person Specification:
+
+Essential
+
+    Effective decision-making with strong customer focus
+    Effective communicator and able to adapt communication style and approach to different environments/ audiences.
+    Self-motivated, shows initiative, and works with minimal direction.
+    Strong understanding of IT disaster recovery processes and methodologies including knowledge of relevant standards, legislation and practices
+    Evidence of working with third-party providers to complement internal teams.
+    Prior experience conducting business impact analysis and risk assessments.
+    Able to coordinate and communicate risk/ issues at a senior level and be able to offer solutions that are: appropriate to the business and local context, proportionate to the risks; and, effective in reducing risk to an acceptable business level
+    Ability to develop and implement disaster recovery plans, including backup and recovery strategies.
+    Knowledge of on-prem and cloud technologies including hosting, storage, virtualisation, and connectivity. With an understanding of disaster recovery testing methodologies, including scenario testing are used in these contexts.
+    Ability to evaluate and recommend new disaster recovery technologies and solution.
+
+Desirable
+
+    A proven track record of building and maintaining resilient systems
+    Operating in an environment of diverse business systems
+    Experience of working in a Public Sector Organisation
+    Relevant Disaster Recovery professional qualifications required, such as Certified Business Continuity Professional (CBCP), Disaster Recovery Certified Specialist (DRCS) or Member Business Continuity Institute (MBCI).
+    Bachelor’s degree in computer science, Information Technology or a related field.
+    Strong awareness of ITIL, minimum of foundation certification preferred.
