@@ -38,3 +38,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Acknowledgments
 
 Special thanks to OpenAI for providing the language model used in this application, and to the creators of the libraries and tools used to build and deploy it.
+
+For more information, collaboration and insight, contact katoxiv@gmail.com.
