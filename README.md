@@ -16,6 +16,7 @@ git clone https://github.com/katoxiv/resumeNebulaNavigator.git
 cd resume-nebula-navigator
 
 Install dependencies:
+create a virtual environment to avoid dependency issues.
 pip install -r requirements.txt
 
 Configure environment variables:
